@@ -7,7 +7,7 @@ hr {
     padding: 1rem;
 }
 
-.lista_rodape {
+.lista-rodape {
     display: none;
 }
 
@@ -31,7 +31,7 @@ hr {
         margin-left: 0.6rem; 
     }
 
-    .lista_rodape {
+    .lista-rodape {
         display: block;
     }
 
